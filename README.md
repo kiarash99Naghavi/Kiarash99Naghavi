@@ -83,16 +83,6 @@ cloud = ["AWS (EC2, SageMaker, Bedrock)", "Azure", "Google Cloud"]
 - High-fidelity porous structure synthesis
 - Accelerated design-to-fabrication cycles
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiarash99Naghavi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarash99Naghavi&layout=compact&theme=radical)
-
-</div>
-
 ## 📝 Recent Publications
 
 📄 **Large Language Models for Extrapolative Modeling of Manufacturing Processes**  
