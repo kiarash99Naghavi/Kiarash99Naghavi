@@ -116,6 +116,4 @@ Feel free to reach out via [email](mailto:nagahvikkiarash@gmail.com) or [LinkedI
   
 *"Building intelligent systems that understand both data and physics"*
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kiarash99Naghavi.kiarash99Naghavi)
-
 </div>
