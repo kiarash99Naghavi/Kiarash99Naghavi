@@ -27,6 +27,6 @@ Specialized in foundation models, vision-language models, fine-tuning (LoRA/QLoR
 
 ## 🔬 Research
 
-Working on multimodal LLM frameworks for engineering documentation, defect detection systems for 3D printing, and physics-aware ML for manufacturing. Open to **Summer 2026 AI/ML internships**.
+Working on multimodal LLM frameworks for engineering documentation, defect detection systems for 3D printing, and physics-aware ML for manufacturing.
 
 [📄 Publications](https://scholar.google.com/citations?user=5Z3tnvgAAAAJ&hl=en) • [💼 LinkedIn](https://linkedin.com/in/kiarash-naghavi) • [📧 Email](mailto:nagahvikkiarash@gmail.com)
